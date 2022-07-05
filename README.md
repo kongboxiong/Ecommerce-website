@@ -1,4 +1,4 @@
-# Ecommerce-website
+# Xmall: A fully functional e-commerce website
  
 This is a full stack e-commerce web application that allows customers to search for products, manage shopping cart, checkout and view order history.
 
